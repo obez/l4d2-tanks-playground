@@ -1,0 +1,57 @@
+"mission"
+{
+  "Name"          "TanksPlayground"
+  "Version"       "15"
+  "Author"        "obez"
+  "Website"       "http://steamcommunity.com/sharedfiles/filedetails/?id=121108123"
+  "DisplayTitle"  "Tanks Playground v3.0"
+  "Description"   "Tanks, tanks, tanks!"
+  "survivor_set"  "1"
+  "OuttroImage"   "vgui\OutroTitle_l4d2_tanksplayground"
+
+  "poster"
+  {
+    "posterImage"            "LoadingScreen_l4d2_tanksplayground"
+    "posterImage_widescreen" "LoadingScreen_l4d2_tanksplayground_wide"
+    "fullscreen"             "1"
+  }
+
+  "modes"
+  {
+    "coop"
+    {
+      "1"
+      {
+        "Map"         "l4d2_tanksplayground"
+        "DisplayName" "Coop"
+        "Image"       "maps/l4d2_tanksplayground"
+      }
+    }
+    "survival"
+    {
+      "1"
+      {
+        "Map"         "l4d2_tanksplayground_surv_2_8"
+        "DisplayName" "Tower survival"
+        "Image"       "maps/l4d2_tanksplayground_surv"
+      }
+    }
+    "versus"
+    {
+      "1"
+      {
+        "Map"         "l4d2_tanksplayground_night"
+        "DisplayName" "Versus By Night"
+        "Image"       "maps/l4d2_tanksplayground"
+        "VersusCompletionScore" "800"
+        "versus_boss_spawning"
+        {
+          "spawn_pos_min" "0.00"
+          "spawn_pos_max" "1.00"
+          "tank_chance"   "1.00"
+          "witch_chance"  "0.00"
+        }
+      }
+    }
+  }
+}

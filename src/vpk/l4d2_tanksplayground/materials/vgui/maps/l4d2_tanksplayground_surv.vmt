@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui\maps\l4d2_tanksplayground_surv"
+	"$translucent" 1
+	"$ignorez" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

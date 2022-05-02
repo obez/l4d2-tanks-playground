@@ -1,0 +1,14 @@
+"AddonInfo"
+{
+     addonSteamAppID        550
+     addontitle             "Tanks Playground"
+     addonversion           3.0
+     addontagline           "Tanks Playground"
+     addonauthor            "obez"
+     addonauthorSteamID     "STEAM_0:1:22154623"
+     addonContent_Campaign  1
+     addonContent_Map       1
+     addonURL0              "http://steamcommunity.com/sharedfiles/filedetails/?id=121108123"
+     addonDescription       "A tribute to the TankFever series"
+     addonSteamGroupName    "TankPlaygrnd"
+}
